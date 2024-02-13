@@ -1,4 +1,7 @@
 # Species-Distribution-Modeling
+
 Using R to generate a species distribution model.
 
-## this is a heading
+## *Habronattus americanus*
+
+![*Habronattus americanus* - a jumping spider!](images/hamericanus.jpeg)
