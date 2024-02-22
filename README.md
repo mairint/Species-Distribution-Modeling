@@ -8,3 +8,7 @@ Using R to generate a species distribution model.
 
 ### Species Occurence Map of *H. americanus* Using Data From GBIF
 ![Species occurrence map of *H. americanus* using data from GBIF](output/leafletTest.png)
+
+## *Cicindela hirticollis*
+
+![*C. hirticollis* - the hairy necked tiger beetle!](images/c.hirticollis.jpeg)
